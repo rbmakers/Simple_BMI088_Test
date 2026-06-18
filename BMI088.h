@@ -1,6 +1,7 @@
 /*
     A library for Grove - 6-Axis Accelerometer&Gyroscope（BMI088）
-    Modified for RP2354A Custom Flight Control Board (I2C0 Hardware Wire)
+    Modified for CURIO Flight Control Board (I2C0 Hardware Wire)
+    製作 : 火箭鳥創客倉庫
 */
 
 #ifndef __BOSCH_BMI088_H__
