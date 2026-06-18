@@ -1,6 +1,8 @@
+// 製作 : 火箭鳥創客倉庫
+
 #include "BMI088.h"
 
-// Hardware Pin Definitions for the RP2354A Board setup
+// Hardware Pin Definitions for the CURIO setup
 const int I2C0_SDA = 20;
 const int I2C0_SCL = 25;
 
