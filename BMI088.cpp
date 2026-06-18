@@ -1,7 +1,8 @@
 /*
     A library for Grove - 6-Axis Accelerometer&Gyroscope（BMI088）
-    Modified for RP2354A Custom Flight Control Board (I2C0 Hardware Wire)
+    Modified for CURIO Flight Control Board (I2C0 Hardware Wire)
     Unit Conversion: Acceleration output changed from mg to m/s^2
+    製作 : 火箭鳥創客倉庫
 */
 
 #include "BMI088.h"
